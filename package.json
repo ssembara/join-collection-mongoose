@@ -1,0 +1,23 @@
+{
+  "name": "joincollectionmongoose",
+  "version": "1.0.0",
+  "description": "Join collection with Mongoose",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "Express",
+    "Mongoose",
+    "MongoDB"
+  ],
+  "author": "Sebastianus Sembara <sembara9090@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.5",
+    "mongoose": "^5.9.4",
+    "nodemon": "^2.0.2"
+  }
+}
